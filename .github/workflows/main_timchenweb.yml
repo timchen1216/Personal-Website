@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TimChenWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_88A90C0FD6194760977210941E0A85AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AABABA2D19C041DD961CD20759442AEA }}
