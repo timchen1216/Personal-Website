@@ -44,7 +44,7 @@ def dcbot():
             await message.channel.send(file=discord.File('關鍵跑票.png'))
 
 
-    client.run('OTk4OTQ5NzAyMzc4NzE3MzA3.G3AUei.kiL4dxgu-v7PU-eYkvpAx9e9ffT-85esA-RAXk') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
+    client.run('OTk4OTQ5NzAyMzc4NzE3MzA3.GKyEKv.qvuCI8jBzQ4Jd6NBfNVVfHKFw68DKwJMJwckV0') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
 
 if __name__ == "__main__":
     app.run(host='127.0.0.1', port=5000, debug=True)
